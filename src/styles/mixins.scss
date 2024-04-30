@@ -1,0 +1,4 @@
+@mixin backgrounds ($path) {
+    background-image: url($path);
+    background-repeat: no-repeat;
+}
